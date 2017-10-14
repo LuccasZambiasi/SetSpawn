@@ -1,0 +1,17 @@
+#
+# > BattleSetSpawn
+# > Feito pela equipe BattleHost.
+# > www.battlehost.com.br
+#
+
+# Aqui são as mensagens do plugin.
+Mensagens:
+   SemPermissao: '&7Desculpe, mas você não tem &epermissão &7para isso.'
+   SetouSpawn: '&7Você setou o &e&ospawn &7com sucesso!'
+   Desabilitado: '&7Este comando foi &c&odesabilitado &7pelos staffers.'
+   
+# Caso queira desabilitar o comando de spawn, por exemplo, mude o Spawn para true!   
+Desabilitar:
+   Spawn: false
+   SetarSpawn: false
+   TeleportJoin: false

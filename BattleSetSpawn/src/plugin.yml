@@ -1,0 +1,8 @@
+name: BattleSetSpawn
+description: Plugin de Setar Spawn feito pela equipe BattleHost.
+main: br.com.battlehost.setspawn.Main
+version: 1.0
+authors: [LuccasZambiasi]
+commands:
+   setarspawn:
+   spawn:
